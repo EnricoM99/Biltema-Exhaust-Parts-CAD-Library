@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/preview.PNG" width="800">
+  <img src="images/firstpage-preview.png" width="800">
 </p>
 
 # Biltema Exhaust Parts - CAD Library
