@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/preview.png" width="800">
+</p>
+
 # Biltema Exhaust Parts - CAD Library
 Unofficial CAD library. Not affiliated with or endorsed by Biltema.
 
